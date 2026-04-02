@@ -10,6 +10,8 @@ Dataset: 7,043 customer records, 21 features
 Domain: Telecom / Customer Retention
 Status: Analysis complete — Power BI dashboard in progress
 
+## Dashboard Preview
+![Customer Churn Power BI Dashboard](dashboard.png)
 ## Tools Used
 
 Python, Pandas, Matplotlib, Jupyter Notebook

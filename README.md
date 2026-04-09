@@ -80,7 +80,7 @@ This project demonstrates how data-driven insights can help businesses reduce ch
 * Customer Churn Analysis.ipynb → Python analysis
 * Customer Churn Analysis.html → Viewable report
 * Telco Customer Churn.csv → Dataset
-* dashboard.png → Power BI dashboard
+* Dashboard.png → Power BI dashboard
 * sql/churn_queries.sql → SQL queries
 
 ---

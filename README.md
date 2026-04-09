@@ -9,7 +9,7 @@ This project analyses customer behaviour using the IBM Telco Customer Churn data
 
 ## 📊 Dashboard Preview
 
-![Customer Churn Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
